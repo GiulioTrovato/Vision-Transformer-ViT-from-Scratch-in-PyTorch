@@ -1,0 +1,11 @@
+# PyTorch
+*.pth
+*.pt
+models/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Colab/Jupyter notebooks
+.ipynb_checkpoints/
